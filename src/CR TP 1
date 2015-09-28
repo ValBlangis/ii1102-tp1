@@ -1,0 +1,28 @@
+Découverte de l'environnement de programmation
+
+
+3. Programmation
+3.1 Premier programme: Calculer le volume d'un pavé droit
+
+3.1.1. Il y a 4 variables nécessaires à ce calcul : la hauteur, la largeur, la longueur et le volume du pavé droit. 
+Ces variables sont des flottants : float;
+bien que les variables de type float soient codées en 32bits, c'est suffisant pour coder 3 nombres.
+
+3.1.2.
+- Déclarer hauteur , type float ;
+- Déclarer largeur , type float ;
+- Déclarer longueur, type float ;
+- Déclarer volume , type float ;
+- Demander hauteur ;
+- Demander largeur ;
+- Demander longueur ;
+- volume=longueur*largeur*hauteur ;
+- Afficher « le volume est »+ volume
+
+ 
+3.2 Passage au Java
+
+3.2.3.d. Si on saisit un nombre négatif, le volume affiché est négatif, ce qui n'est pas mathématiquement correct.
+
+
+
